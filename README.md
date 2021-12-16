@@ -1,7 +1,7 @@
 # MadLib
 
 **Author**: Brandon Mizutani
-**Version**: 1.0.0 (PR URL: [PR URL]())
+**Version**: 1.0.0 (PR URL: [PR URL](https://github.com/bran2miz/pythonic-garage-band/pull/1))
 
 ## Overview
 
